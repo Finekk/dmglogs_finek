@@ -10,6 +10,6 @@ USTAWIENIE:
 
 🌴w server.lua macie do zmainy webhooka
 
-🌴 no i wszystko dziekuje i dowidzenia
+🌴 no i wszystko dziekuje i siema
 
 👩NIE AUTORSKIE👩
